@@ -2,7 +2,7 @@
 
 Application template with ReactJS && Node.js by: [Marcos Paulo](https://github.com/marcos012)
 
-**Installation:** <br>
+## Installation: <br>
 
 - [Node/NPM](https://nodejs.org/en/) <br>
 
@@ -15,7 +15,6 @@ $ npm install
 $ npm run db:migrate
 $ npm run dev
 ```
-<br />
 
 **Frontend:**
 
@@ -24,7 +23,6 @@ $ cd web
 $ npm install
 $ npm start
 ```
-<br />
 
 ## License
 
