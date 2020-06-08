@@ -1,6 +1,8 @@
 # Node React template
 <div>
-  <img src="https://gph.is/st/MxA050Y" width="250px />                                     
+<!--   ![node GIF](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif) -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px /> 
+                                              
   <img src="https://gph.is/st/m7kpZ1m" width="250px />
 </div>                                            
 <br />
