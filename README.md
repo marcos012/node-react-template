@@ -1,5 +1,5 @@
 # Node React template
-
+<img src="https://i.imgur.com/Xa2uYZM.png" /><br>
 Application template with ReactJS && Node.js by: [Marcos Paulo](https://github.com/marcos012)
 
 ## Installation: <br>
