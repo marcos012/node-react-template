@@ -2,8 +2,8 @@
 <div>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px" />
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="250px" />
-</div>                                    
-<br />
+</div><br>
+
 Application template with ReactJS && Node.js by: [Marcos Paulo](https://github.com/marcos012)
 
 ## Installation: <br>
