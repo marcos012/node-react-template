@@ -2,7 +2,9 @@
 <span>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px />
 </span>                                                                    
-![react GIF](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)                                     
+<span>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px />
+</span>                                    
 <br />
 Application template with ReactJS && Node.js by: [Marcos Paulo](https://github.com/marcos012)
 
