@@ -1,10 +1,8 @@
 # Node React template
-<span>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px />
-</span>                                                                    
-<span>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px />
-</span>                                    
+<div>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250px" />
+</div>                                    
 <br />
 Application template with ReactJS && Node.js by: [Marcos Paulo](https://github.com/marcos012)
 
